@@ -3,7 +3,7 @@
 
 ## 介绍
 
-![image-20211023145357382](.\assets\images\image-20211023145357382.png)
+![image-20211023145357382](https://github.com/HuangXingjie2002/outlier-detection-review/tree/master\assets\images\image-20211023145357382.png)
 
 ## 监督性异常检测
 
